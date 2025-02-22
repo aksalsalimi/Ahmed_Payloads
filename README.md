@@ -22,7 +22,7 @@ Welcome to Ahmed Payloads, a comprehensive collection of payloads designed for w
 ## Usage
 
 Clone the repository:
-git clone https://github.com/aksalsalimi/Ahmed_Payloads/
+git clone https://github.com/aksalsalimi/Ahmed_Payloads.git
 
 Explore payloads by category and use them responsibly.
 
