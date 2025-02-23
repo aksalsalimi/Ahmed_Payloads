@@ -10,12 +10,11 @@ Welcome to Ahmed Payloads, a comprehensive collection of payloads designed for w
 - 🔍 PoC Exploits – Ready-to-use proof-of-concept scripts for common and critical vulnerabilities.
 - 🌐 Bug Bounty Hunting – Tailored payloads for common web application vulnerabilities.
 - ☁️ Cloud Security – Payloads for assessing security in cloud environments.
-- 📖 Well-Documented – Each payload includes descriptions, use cases, and impact details.
 
 ## Categories
 
 - Web Exploits: XSS, SQLi, SSRF, CSRF, RCE, IDOR, and more.
-- Cloud Security Payloads: AWS, Azure, GCP misconfigurations, privilege escalations.
+- Cloud Security Payloads: AWS, GCP misconfigurations, privilege escalations.
 - Bug Bounty Payloads: Custom-crafted payloads for bug bounty programs.
 - Penetration Testing: Payloads for attacking and testing security defenses.
 
